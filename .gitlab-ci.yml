@@ -1,0 +1,15 @@
+# This file is a template, and might need editing before it works on your project.
+# Full project: https://gitlab.com/pages/plain-html
+image: alpine:latest
+
+variables:
+  HOST: "ftp.axius.design"
+  USERNAME: "axiusdes"
+  PASSWORD: "7j75nntJW4"
+pages:
+  stage: deploy
+  script:    
+    - apk --update add lftp ca-certificates openssh    
+    - lftp -c "set ftp:ssl-allow no; open -u $USERNAME,$PASSWORD $HOST; mirror -Rnev ./ ./public_html --ignore-time --parallel=10 --exclude-glob .git* --exclude .git/"
+  only:
+  - master

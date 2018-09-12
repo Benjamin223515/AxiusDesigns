@@ -1,0 +1,218 @@
+[
+    {
+        "name": "XenoNode Logo",
+        "example": "https://xenonode.com",
+        "section": "Logo",
+        "logo": "static/images/partners/xenonode.png"
+    },
+    {
+        "name": "AxiusDesigns Logo",
+        "example": "https://axius.design",
+        "section": "Logo",
+        "logo": "static/images/assets/logo.png"
+    },
+    {
+        "name": "TECHNO Bling YouTube Banner",
+        "example": "https://www.youtube.com/technobling",
+        "section": "YTBanner",
+        "logo": "static/images/portfolio/personal/bling_banner.png"
+    },
+    {
+        "name": "TECHNO Bling Profile Picture",
+        "example": "https://www.youtube.com/technobling",
+        "section": "pfp",
+        "logo": "static/images/portfolio/personal/bling_icon.png"
+    },
+    {
+        "name": "TECHNO Bling Twitter Banner",
+        "example": "https://www.youtube.com/technobling",
+        "section": "TBanner",
+        "logo": "static/images/portfolio/personal/bling_twitter.png"
+    },
+    {
+        "name": "RealBloodman YouTube Banner",
+        "example": "https://www.youtube.com/channel/UC4wx92zuLNcoxV7paHPSFQg",
+        "section": "YTBanner",
+        "logo": "static/images/portfolio/personal/bloodman_banner.png"
+    },
+    {
+        "name": "RealBloodman Twitter Banner",
+        "example": "https://www.youtube.com/channel/UC4wx92zuLNcoxV7paHPSFQg",
+        "section": "TBanner",
+        "logo": "static/images/portfolio/personal/bloodman_twitter.png"
+    },
+    {
+        "name": "RealBloodman Profile Picture",
+        "example": "https://www.youtube.com/channel/UC4wx92zuLNcoxV7paHPSFQg",
+        "section": "pfp",
+        "logo": "static/images/portfolio/personal/bloodman_icon.png"
+    },
+    {
+        "name": "Crystal Logo",
+        "example": "#section-portfolio",
+        "section": "Logo",
+        "logo": "static/images/portfolio/personal/crystal_logo.png"
+    },
+    {
+        "name": "GamesForDays Profile Picture",
+        "example": "https://twitter.com/GamesForDays2",
+        "section": "pfp",
+        "logo": "static/images/portfolio/personal/gfd_icon.png"
+    },
+    {
+        "name": "GamesForDays Logo",
+        "example": "https://twitter.com/GamesForDays2",
+        "section": "Logo",
+        "logo": "static/images/portfolio/personal/gfd_logo.png"
+    },
+    {
+        "name": "GamesForDays Twitter Banner",
+        "example": "https://twitter.com/GamesForDays2",
+        "section": "TBanner",
+        "logo": "static/images/portfolio/personal/gfd_twitter.png"
+    },
+    {
+        "name": "Haru YouTube Banner",
+        "example": "https://www.youtube.com/channel/UCeWIRbFnSyd_3k1kmXG_rxQ",
+        "section": "YTBanner",
+        "logo": "static/images/portfolio/personal/haru_banner.png"
+    },
+    {
+        "name": "YourPalJake YouTube Banner",
+        "example": "https://www.youtube.com/channel/UCscWkHr5LrX0Qrb7Sr5FNyA",
+        "section": "YTBanner",
+        "logo": "static/images/portfolio/personal/jake_banner.png"
+    },
+    {
+        "name": "YourPalJake Profile Picture",
+        "example": "https://www.youtube.com/channel/UCscWkHr5LrX0Qrb7Sr5FNyA",
+        "section": "pfp",
+        "logo": "static/images/portfolio/personal/jake_icon.png"
+    },
+    {
+        "name": "YourPalJake Logo",
+        "example": "https://www.youtube.com/channel/UCscWkHr5LrX0Qrb7Sr5FNyA",
+        "section": "Logo",
+        "logo": "static/images/portfolio/personal/jake_logo.png"
+    },
+    {
+        "name": "Fallout JXCK Logo",
+        "example": "#section-portfolio",
+        "section": "Logo",
+        "logo": "static/images/portfolio/personal/jxck_logo.png"
+    },
+    {
+        "name": "Fallout JXCK YouTube Banner",
+        "example": "#section-portfolio",
+        "section": "YTBanner",
+        "logo": "static/images/portfolio/personal/jxck_banner.png"
+    },
+    {
+        "name": "Mystic YouTube Banner",
+        "example": "#section-portfolio",
+        "section": "YTBanner",
+        "logo": "static/images/portfolio/personal/mystic_banner.png"
+    },
+    {
+        "name": "Mystic Profile Picture",
+        "example": "#section-portfolio",
+        "section": "pfp",
+        "logo": "static/images/portfolio/personal/mystic_icon.png"
+    },
+    {
+        "name": "Qmann YouTube Banner",
+        "example": "#section-portfolio",
+        "section": "YTBanner",
+        "logo": "static/images/portfolio/personal/qman_banner.png"
+    },
+    {
+        "name": "TECHNO Terse YouTube Banner",
+        "example": "#section-portfolio",
+        "section": "YTBanner",
+        "logo": "static/images/portfolio/personal/terse_banner.png"
+    },
+    {
+        "name": "TECHNO Terse Profile Picture",
+        "example": "#section-portfolio",
+        "section": "pfp",
+        "logo": "static/images/portfolio/personal/terse_icon.png"
+    },
+    {
+        "name": "AssetHosting Logo",
+        "example": "#section-portfolio",
+        "section": "Logo",
+        "logo": "static/images/portfolio/company/asset_logo.png"
+    },
+    {
+        "name": "Badcraft YouTube Banner",
+        "example": "http://badcraftdevelopment.strikingly.com/",
+        "section": "YTBanner",
+        "logo": "static/images/portfolio/company/badcraft_banner.png"
+    },
+    {
+        "name": "Badcraft Profile Picture",
+        "example": "http://badcraftdevelopment.strikingly.com/",
+        "section": "pfp",
+        "logo": "static/images/portfolio/company/badcraft_icon.png"
+    },
+    {
+        "name": "Blurple Project Twitter Banner",
+        "example": "https://twitter.com/BlurpleProject",
+        "section": "TBanner",
+        "logo": "static/images/portfolio/company/blurple_twitter.png"
+    },
+    {
+        "name": "CubikMC Youtube Banner",
+        "example": "https://discord.gg/QH8jUzX",
+        "section": "YTBanner",
+        "logo": "static/images/portfolio/company/cubik_banner.jpg"
+    },
+    {
+        "name": "CubikMC Profile Picture",
+        "example": "https://discord.gg/QH8jUzX",
+        "section": "pfp",
+        "logo": "static/images/portfolio/company/cubik_icon.png"
+    },
+    {
+        "name": "CubikMC Logo",
+        "example": "https://discord.gg/QH8jUzX",
+        "section": "Logo",
+        "logo": "static/images/portfolio/company/cubik_logo.png"
+    },
+    {
+        "name": "DinoNode Hosting Logo",
+        "example": "#section-portfolio",
+        "section": "Logo",
+        "logo": "static/images/portfolio/company/dino_logo.png"
+    },
+    {
+        "name": "EnergyDesigns Logo",
+        "example": "#section-portfolio",
+        "section": "Logo",
+        "logo": "static/images/portfolio/company/energydesigns_logo.png"
+    },
+    {
+        "name": "Reactive Skies Logo",
+        "example": "#section-portfolio",
+        "section": "Logo",
+        "logo": "static/images/portfolio/company/reactive_logo.png"
+    },
+    {
+        "name": "Velocity Logo",
+        "example": "https://velocitybot.xyz/",
+        "section": "Logo",
+        "logo": "static/images/portfolio/company/velocity_logo.png"
+    },
+    {
+        "name": "VelocityDev Logo",
+        "example": "https://velocitybot.xyz/",
+        "section": "Logo",
+        "logo": "static/images/portfolio/company/velocitydev_logo.png"
+    },
+    {
+        "name": "VolcanicDesigns Logo",
+        "example": "#section-portfolio",
+        "section": "Logo",
+        "logo": "static/images/portfolio/company/velocity_logo.png"
+    }
+]

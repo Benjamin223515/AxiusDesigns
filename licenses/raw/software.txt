@@ -1,0 +1,81 @@
+# Full License Text - End User License Agreement
+
+## (1) Purpose
+
+These terms and conditions (these "Terms") are applicable to the use of the software provided, It's  Installation and Initialization, and these Terms contain the contractual terms and conditions and procedures of use and the rights and obligations, responsibilities and other requirements between Fubbo and the template or library user(the "User").
+
+## (2) Definitions
+
+The terms used in these Terms have the following meanings, and interpretation of the terms that are not defined in these Terms have the definitions under the relevant laws and regulations and as prescribed in notices.
+
+### (a) User
+A person who agree to these Terms and uses, manages and deploys the software included, ("the user")
+
+### (b) Fubbo
+Fubbo / Benjamin Keogh
+
+### (c) AxiusDesigns
+AxiusDesigns, ltd.
+
+## (3) Effect and Modification of Terms
+
+a. These Terms will first take effect when the User chooses "Agree;" provided, however, that these Terms will no longer be effective from the time Fubbo or AxiusDesigns withdraws the execution of these Terms upon the User's consent.
+
+b. Fubbo/AxiusDesigns will post these terms as a permanent menu item at https://licenses.axius.design/index.php?license=software so that the Users will have ready access to the contents of these Terms.
+
+c. These Terms will become valid when the User chooses "Agree;" Upon choosing "Agree" - usually through typing "YES" into the confirmation window - you agree to the terms provided and AxiusDesigns automatically gives consent to you (the user) to use the software provided
+
+## (4) Rights and Obligations
+
+a. If the User does not comply with these Terms, the license policy or the user guide, etc., AxiusDesigns may restrict or cease the use of or access to the software provided.
+
+b. AxiusDesigns may discontinue providing the template or library on a temporary basis without notice, due to unavoidable circumstances such emergency system maintenance, expansion or replacement, etc. In addition, Fubbo/AxiusDesigns may discontinue providing all or part of the currently provided software for reasons that Fubbo deems appropriate.
+
+c. For our Software files, we don't allow your modification, processing without consultation of the Company.
+
+d. Redistribution/distribution of the software is strictly prohibited without prior consent of the holding company ("AxiusDesigns"). After consent is given, the software must be distributed with this license included, and/or with link to the licence.
+
+## (5) Intellectual Property Rights
+
+The copyrights to the library source code and installation files, technical guides and other documentation on the template and library provided by AxiusDesigns/Fubbo belong to AxiusDesigns; provided, however, that the user of the software doesn't violate the terms and conditions of use through this license agreement.
+
+## (6) Limitations when Using Third-Party Program
+
+If there is a third-party program such as open source based libraries, etc. among the programs provided by AxiusDesigns in accordance with these Terms, the User will be bound by the terms and conditions of the third-party program, and the user will be deemed to have agreed to such terms and conditions.
+
+## (7) User's Responsibility
+
+### (a) Obligations on template and library
+
+The User has the right to copy onto his or her computer and to use an appropriate quantity of the software to the extent such activity complies with the purpose of the software. This right is granted during the term of these Terms on a limited, non-exclusive, and personal basis, and does not include the right sublicense to others.
+
+### (b) Obligations on Mobile Applications
+
+If necessary, Fubbo/AxiusDesigns may place limitations on the API, modules, content, data, etc. which are included in the software. The content of the software may not be in violation of existing laws such as by being pornographic, violent, subversive or disruptive to public order or being harmful to good social morals, and the use of the software may not interfere with the operation of mobile devices or other software.
+
+## (8) Disclaimer
+
+### (a) Liability
+AxiusDesigns does not bear liability in case Axius is unable to provide the software due to natural disasters or other similar force majeure event.
+
+### (b) Damage
+LOGEO does not guarantee that the use of the software provided to the User is lawful, reliable or free from defect, and AxiusDesigns does not assume any liabilities for any damages incurred by the customer that use the software.
+
+### (c) Issues
+LOGEO does not assume any liability in the event the software does not work as intended due to the User's actions, or for any errors that may occur in the software due to the User editing the softwares source files without proper permission.
+
+# Appendix
+
+(Effective Date) These Terms are effective as of September 11, 2018.
+
+----------------------------------------------------------------------------------------------------------
+
+Program and Source Code : Distribution and transmission prohibited, distribution after modification prohibited, AxiusDesigns owns the copyright
+
+Personal use of the template or library : Prohibited without direct permission from AxiusDesigns, AxiusDesigns owns the copyright
+
+Business Use of template or library : Prohibited without direct permission from AxiusDesigns, AxiusDesigns owns the copyright
+
+----------------------------------------------------------------------------------------------------------
+
+* The licensing policy above may change in accordance with AxiusDesign's internal policies
